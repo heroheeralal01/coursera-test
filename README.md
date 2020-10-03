@@ -1,3 +1,3 @@
 # coursera-test
 Coursera test repository
-Added dummy code
+Waiting for the first line of code
